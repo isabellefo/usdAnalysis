@@ -2,7 +2,7 @@
 Análise do valor do dolar ao longo dos anos em diferentes países
 
 # Origem dos dados
-https://raw.githubusercontent.com/datasets/exchange-rates/master/data/daily.csv
+https://github.com/datasets/exchange-rates
 
 # Autores
 <li>Gabriel Borges</li>
